@@ -1,6 +1,6 @@
 # Graph-similarity-baseline
 Baseline methods of MLP and GNN in graph similarity learning.
-
+Including Graph Transformer for graph similarity learning(SAT_GSL).
 ## Requirements
 To install requirements:
 ```
