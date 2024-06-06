@@ -593,7 +593,7 @@ def get_positive_expectation(p_samples, measure, average=True):
     """Computes the positive part of a divergence / difference.
 
     Args:
-        p_samples: Positive samples.    一个矩阵 [n_nodes, n_graphs] 每个节点和它所在的图的相似度， 其他位置为0
+        p_samples: Positive samples.    
         measure: Measure to compute for.
         average: Average the result over samples.
 
