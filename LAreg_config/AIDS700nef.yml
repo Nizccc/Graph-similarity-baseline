@@ -6,7 +6,7 @@ GSC_GNN:
   epochs: 5000
   use_val: True
   val_ratio: 0.25
-  iter_val_start: 4000
+  iter_val_start: 3000
   iter_val_every: 100
   save_best: True
   save_best_all: True
